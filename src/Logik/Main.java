@@ -8,7 +8,7 @@ public class Main {
 			count = "0";
 			
 			for (int i= 0;i<=10;i++) {
-				// Wir fangen nun bei 0 zu zählen an
+				// Wir fangen nun bei 0 zu zählen an!!
 				Dragon dragon = new Dragon(count);
 				System.out.println(count = dragon.getStream());
 				

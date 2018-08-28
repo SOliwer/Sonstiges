@@ -7,7 +7,7 @@ public class Dragon {
 	private String stream;
 	private int sizeStream;
 
-	public Dragon(String stream) {
+	public Dragon(String stream) { 
 		setStream(stream);
 	}
 
